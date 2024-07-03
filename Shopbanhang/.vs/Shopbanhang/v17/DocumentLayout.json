@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|c:\\users\\thinh\\desktop\\shopbanhang - v1\\shopbanhang\\shopbanhang\\areas\\admin\\controllers\\aspnetuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|solutionrelative:shopbanhang\\areas\\admin\\controllers\\aspnetuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|c:\\users\\thinh\\desktop\\shopbanhang - v1\\shopbanhang\\shopbanhang\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|solutionrelative:shopbanhang\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\shopbanhang\\areas\\admin\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|solutionrelative:shopbanhang\\areas\\admin\\controllers\\productlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|c:\\users\\thinh\\desktop\\shopbanhang - v1\\shopbanhang\\shopbanhang\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|solutionrelative:shopbanhang\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|c:\\users\\thinh\\desktop\\shopbanhang - v1\\shopbanhang\\shopbanhang\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|solutionrelative:shopbanhang\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\shopbanhang\\areas\\admin\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D02F6C66-795B-44E6-AC83-F1A2B1D8142E}|Shopbanhang\\Shopbanhang.csproj|solutionrelative:shopbanhang\\areas\\admin\\views\\productlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspNetUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Controllers\\AspNetUsersController.cs",
+              "RelativeDocumentMoniker": "Shopbanhang\\Areas\\Admin\\Controllers\\AspNetUsersController.cs",
+              "ToolTip": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Controllers\\AspNetUsersController.cs",
+              "RelativeToolTip": "Shopbanhang\\Areas\\Admin\\Controllers\\AspNetUsersController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T06:26:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Shopbanhang\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Shopbanhang\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:11:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeadminController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Controllers\\HomeadminController.cs",
+              "RelativeDocumentMoniker": "Shopbanhang\\Areas\\Admin\\Controllers\\HomeadminController.cs",
+              "ToolTip": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Controllers\\HomeadminController.cs",
+              "RelativeToolTip": "Shopbanhang\\Areas\\Admin\\Controllers\\HomeadminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:10:24.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingcartController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Controllers\\ShoppingcartController.cs",
+              "RelativeDocumentMoniker": "Shopbanhang\\Controllers\\ShoppingcartController.cs",
+              "ToolTip": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Controllers\\ShoppingcartController.cs",
+              "RelativeToolTip": "Shopbanhang\\Controllers\\ShoppingcartController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T11:23:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Views\\Productlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shopbanhang\\Areas\\Admin\\Views\\Productlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Views\\Productlist\\Index.cshtml",
+              "RelativeToolTip": "Shopbanhang\\Areas\\Admin\\Views\\Productlist\\Index.cshtml",
+              "ViewState": "AQIAABwBAAAAAAAAAAAWwCwBAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:52:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductlistController.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Controllers\\ProductlistController.cs",
+              "RelativeDocumentMoniker": "Shopbanhang\\Areas\\Admin\\Controllers\\ProductlistController.cs",
+              "ToolTip": "C:\\Users\\thinh\\Desktop\\shopbanhang - V1\\Shopbanhang\\Shopbanhang\\Areas\\Admin\\Controllers\\ProductlistController.cs",
+              "RelativeToolTip": "Shopbanhang\\Areas\\Admin\\Controllers\\ProductlistController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T08:38:45.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Shopbanhang.Models.OrderDetail>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th> Mã đơn hàng</th>
+                <th> Sản Phẩm </th>
+                <th> Số Lượng </th>
+                <th> Ngày đặt hàng </th>
+                <th> Tổng tiền </th>
+                <th> Trạng thái </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr class="table-info">
+                    <td> @item.OrderDetaild </td>
+                    <td> @item.Product.ProductName </td>
+                    <td> @item.Quantity  </td>
+                    <td> @item.Order.OrderDate </td>
+                    <td> @(string.Format("{0:N0}", item.Total)) VNĐ</td>
+                    <td> @item.Order.TransactStatu.Status</td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+

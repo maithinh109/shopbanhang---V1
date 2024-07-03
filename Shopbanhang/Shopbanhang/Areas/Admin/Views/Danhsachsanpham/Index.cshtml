@@ -1,0 +1,64 @@
+﻿
+@model IEnumerable<Shopbanhang.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layoutadmin.cshtml";
+}
+
+<div class="container " >
+    <div class="row">
+        <p>
+            @Html.ActionLink("Tạo Mới", "Create", null, new { @class = "btn btn-gradient-danger btn-fw" })
+        </p>
+        <table class="table">
+            <tr>
+                <th class="col-3">
+                    Tên sản phẩm
+                </th>
+
+                <th class="col-2">
+                    Mức giá
+                </th>
+
+                <th class="col-2">
+                    Danh mục
+                </th>
+                <th class="col-2">
+                    Hình ảnh
+                </th>
+                <th class="col-3"></th>
+
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ProductName)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Price)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Category.CatName)
+                    </td>
+                    <td>
+                        <img src=" @item.Image" />
+
+
+                    </td>
+                    <td>
+
+                        @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.ProductId }, new { @class = "btn btn-outline-success btn-fw" })
+                        @Html.ActionLink("Chi Tiết", "Details", new { id = item.ProductId }, new { @class = "btn btn-outline-danger btn-fw" })
+                        @Html.ActionLink("Xóa", "Delete", new { id = item.ProductId }, new { @class = "btn btn-outline-dark btn-fw" })
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+

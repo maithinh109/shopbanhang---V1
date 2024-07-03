@@ -1,0 +1,335 @@
+﻿@model IEnumerable<Shopbanhang.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layoutadmin.cshtml";
+}
+
+
+
+<div class="container" style="margin-top: 100px">
+    <button class="btn btn-gradient-danger btn-fw" type="button" data-bs-toggle="modal" data-bs-target="#exampleModalCenter1">Tạo mới </button>
+    <div class="modal fade" id="exampleModalCenter1" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Tọa mới sản phẩm  </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @using (Html.BeginForm("Create", "Productlist", FormMethod.Post, new { id = "productForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Tên sản phẩm</label>
+                            <input type="text" class="form-control" id="ProductName" name="ProductName">
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Danh mục</label>
+                            @Html.DropDownList("CatId", (SelectList)ViewBag.Cat, htmlAttributes: new { @class = "form-control", @id = "CatId" })
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Số lượng</label>
+                            <input type="text" class="form-control" id="Quantity" name="Quantity    ">
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Gía</label>
+                            <input type="text" class="form-control" id="Price" name="Price">
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Hình ảnh</label>
+                            <input type="text" class="form-control" id="Image" name="Image">
+                        </div>
+                    }
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-gradient-success" id="saveChangesBtn1">Lưu thay đổi</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Tên sản phẩm
+            </th>
+
+            <th>
+                Gía
+            </th>
+            <th>
+                Số lượng
+            </th>
+
+
+            <th>
+                Hình ảnh
+            </th>
+
+            <th>
+                Danh mục
+            </th>
+            <th>Hành động</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Quantity)
+                </td>
+
+                <td>
+                    <img src="@item.Image" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Category.CatName)
+                </td>
+                <td>
+                    <button type="button" class="btn btn-outline-info" data-bs-toggle="modal" data-bs-target="#exampleModalCenter4" data-productid="@item.ProductId"> Chỉnh sửa </button>
+                    <button type="button" class="btn btn-outline-success" data-bs-toggle="modal" data-bs-target="#exampleModalCenter3">Chi tiết</button>
+                    <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#exampleModalCenter2" data-productid="@item.ProductId"> Xóa</button>
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div class="modal fade" id="exampleModalCenter2" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Xóa sản phẩm  </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <input type="hidden" id="ProductId" name="ProductId">
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-gradient-success" id="saveChangesBtn2">Xóa</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---->
+    <div class="modal fade" id="exampleModalCenter4" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Chỉnh xửa sản phẩm  </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @using (Html.BeginForm("Edit", "Productlist", FormMethod.Post, new { id = "productForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Tên sản phẩm</label>
+                            <input type="text" class="form-control" id="ProductName" name="ProductName">
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Danh mục</label>
+                            @Html.DropDownList("CatId", (SelectList)ViewBag.Cat, htmlAttributes: new { @class = "form-control", @id = "CatId" })
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Gía</label>
+                            <input type="text" class="form-control" id="Price" name="Price">
+
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Số lượng</label>
+                            <input type="text" class="form-control" id="Quantity" name="Quantity">
+
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Hình ảnh</label>
+                            <input type="text" class="form-control" id="Image" name="Image">
+                        </div>
+                    }
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-gradient-success" id="saveChangesBtn4">Cập nhật</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="exampleModalCenter3" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Chi tiết sản phẩm  </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @using (Html.BeginForm("Edit", "Productlist", FormMethod.Post, new { id = "productForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Tên sản phẩm</label>
+                            <input type="text" class="form-control" id="ProductName" name="ProductName">
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Danh mục</label>
+                            @Html.DropDownList("CatId", (SelectList)ViewBag.Cat, htmlAttributes: new { @class = "form-control", @id = "CatId" })
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Gía</label>
+                            <input type="text" class="form-control" id="Price" name="Price">
+                        </div>
+                        <div class="form-group">
+                            <label for="recipient-name" class="col-form-label">Hình ảnh</label>
+                            <input type="text" class="form-control" id="Image" name="Image">
+                        </div>
+                    }
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js" integrity="sha512-+k1pnlgt4F1H8L7t3z95o3/KO+o78INEcXTbnoJQ/F2VqDVhWoaiVml/OEHv9HsVgxUaVW+IbiZPUJQfF/YxZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <!--tao moi san pham-->
+    <script>
+   $(document).ready(function () {
+
+$('#saveChangesBtn1').on('click', function () {
+    var ProductName = $('#ProductName').val();
+    var CatId = $('#CatId').val();
+    var Price = $('#Price').val();
+    var Image = $('#Image').val();
+    var Quantity = $('#Quantity').val();
+
+    var token = $('input[name="__RequestVerificationToken"]').val();
+
+    $.ajax({
+        url: '@Url.Action("Create", "Productlist")',
+        type: 'POST',
+        data: {
+            __RequestVerificationToken: token,
+            ProductName: ProductName,
+            CatId: CatId,
+            Price: Price,
+            Image: Image,
+            Quantity: Quantity
+        },
+        success: function (result) {
+            if (result.success) {
+                $('#exampleModalCenter1').modal('hide'); // Close the modal on success
+                location.reload();  // Reload the page to see changes
+            } else {
+                console.error('Error updating status:', result.message);
+            }
+        },
+        error: function (xhr, status, error) {
+            console.error('Error updating status:', error);
+            alert('Đã xảy ra lỗi khi tạo mới sản phẩm.');
+        }
+    });
+});
+   });
+
+    </script>
+    <!-- xoa san pham-->
+    <script>
+   $(document).ready(function () {
+
+$(document).ready(function () {
+
+    $('#exampleModalCenter2').on('show.bs.modal', function (event) {
+        var button = $(event.relatedTarget);
+        var productId = button.data('productid'); // Lấy giá trị ProductId từ button (có thể sử dụng data-productid)
+        var modal = $(this);
+        modal.find('#ProductId').val(productId); // Đặt giá trị ProductId vào trường ẩn trong form
+    });
+
+    // Xử lý khi nút Lưu thay đổi trong modal Xóa sản phẩm được click
+    $('#saveChangesBtn2').on('click', function () {
+        var productId = $('#ProductId').val(); // Lấy ProductId từ trường ẩn trong form
+        var token = $('input[name="__RequestVerificationToken"]').val(); // Lấy token AntiForgeryToken
+
+        $.ajax({
+            url: '@Url.Action("Delete", "Productlist")',
+            type: 'POST',
+            data: {
+                __RequestVerificationToken: token,
+                ProductId: productId
+            },
+            success: function (result) {
+                if (result.success) {
+                    $('#exampleModalCenter2').modal('hide'); // Đóng modal Xóa sản phẩm khi thành công
+                    location.reload(); // Tải lại trang để xem các thay đổi
+                } else {
+                    console.error('Error deleting product:', result.message);
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error('Error deleting product:', error);
+                alert('Đã xảy ra lỗi khi xóa sản phẩm.');
+            }
+        });
+    });
+});
+
+   });
+
+    </script>
+    <!-- cap nhat san pham-->
+    <script>
+   $(document).ready(function () {
+
+$('#saveChangesBtn4').on('click', function () {
+    var ProductName = $('#ProductName').val();
+    var CatId = $('#CatId').val();
+    var Price = $('#Price').val();
+    var Image = $('#Image').val();
+    var Quantity = $('#Quantity').val();
+
+
+    var token = $('input[name="__RequestVerificationToken"]').val();
+
+    $.ajax({
+        url: '@Url.Action("Edit", "Productlist")',
+        type: 'POST',
+        data: {
+            __RequestVerificationToken: token,
+            ProductName: ProductName,
+            CatId: CatId,
+            Price: Price,
+            Image: Image,
+            Quantity: Quantity
+        },
+        success: function (result) {
+            if (result.success) {
+                $('#exampleModalCenter4').modal('hide'); // Close the modal on success
+                location.reload();  // Reload the page to see changes
+            } else {
+                console.error('Error updating status:', result.message);
+            }
+        },
+        error: function (xhr, status, error) {
+            console.error('Error updating status:', error);
+            alert('Đã xảy ra lỗi khi cập nhật sản phẩm.');
+        }
+    });
+});
+   });
+
+    </script>
+</div>
+

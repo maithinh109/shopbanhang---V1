@@ -1,0 +1,169 @@
+﻿
+@model List<Shopbanhang.Models.cartitem>
+@{
+    ViewBag.Title = "Giỏ hàng của bạn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@if (Model == null || Model.Count == 0)
+{
+    <p class="text-info text-center">
+        Giỏ hàng của bạn rỗng!
+    </p>
+}
+else
+{
+
+
+
+
+
+    <section class="shoping-cart spad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="shoping__cart__table">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th class="shoping__product">Products</th>
+                                    <th>Gía</th>
+                                    <th>Số lượng</th>
+                                    <th>Tổng</th>
+
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td class="shoping__cart__item">
+                                            <img src="@item.img " style="width:100px;height:100px">
+                                            <h5>@item.name</h5>
+                                        </td>
+                                        <td class="shoping__cart__price">
+                                            @(item.price.ToString("#,0.##").Replace(",", ".")) vnđ
+                                        </td>
+                                        <td class="shoping__cart__quantity">
+                                            <div class="quantity">
+
+                                                <div class="pro-qty">
+
+                                                    <input type="text" value="@item.soluong" class="non-quantity quantity-input" id="quantity">
+
+                                                </div>
+
+                                            </div>
+                                        </td>
+                                        <td class="shoping__cart__total">
+                                            @(item.thanhtien.ToString("#,0.##").Replace(",", ".")) vnđ
+                                        </td>
+                                        <td class="shoping__cart__item__close">
+                                            <a data-id="@item.id"><span class="icon_close"></span></a>
+                                        </td>
+                                    </tr>
+                                }
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="shoping__cart__btns">
+                        <a href="~/products/index" class="primary-btn ">Tiếp tục mua sắm</a>
+                        <a data-id="" class="primary-btn cart-btn cart-btn-right">
+                            <span class="icon_loading"></span>
+                            Upadate Cart
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="shoping__continue">
+                        <div class="shoping__discount">
+                            <h5>Discount Codes</h5>
+                            <form action="#">
+                                <input type="text" placeholder="Enter your coupon code">
+                                <button type="submit" class="site-btn">APPLY COUPON</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="shoping__checkout">
+                        <h5>Cart Total</h5>
+                        <ul>
+                            <li>Subtotal <span>@Model.Sum(m => m.thanhtien).ToString("#,0.##").Replace(",", ".") vnđ</span></li>
+                            <li>Tổng tiền  <span>@Model.Sum(m => m.thanhtien).ToString("#,0.##").Replace(",", ".") vnđ</span></li>
+                        </ul>
+                        <a href="~/Orders/create" class="primary-btn">PROCEED TO CHECKOUT</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+    }
+@section scripts{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(".icon_close").click(function () {
+                var soluong = $(this).closest('tr').find('.quantity-input').val();
+                var Id = $(this).parent().data("id");
+                var soluong = parseInt(soluong);
+                console.log("Giá trị số lượng:", soluong);
+                console.log("giá trị id", Id);
+
+
+                $.ajax({
+                    url: "/Shoppingcart/XoaKhoiGio",
+                    type: "POST",
+                    data: {
+                        Id: Id,
+                        soluong: soluong
+
+                    },
+                    success: function (data) {
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Xóa khỏi giỏ thành công',
+                            showConfirmButton: false,
+                            timer: 2000,
+
+                        });
+
+                        $("#cart_count").html(data.soLuong);
+                        setTimeout(function () {
+                            location.reload();
+                        }, 2500);
+                    },
+                    error: function () {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Xóa khỏi giỏ hàng thất bại',
+                            text: 'Vui lòng thử lại',
+                            showConfirmButton: false,
+                            timer: 2000
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var prices = document.querySelectorAll('.price');
+        prices.forEach(function (priceElement) {
+            var price = parseFloat(priceElement.getAttribute('data-price'));
+            priceElement.innerHTML = price.toLocaleString('vi-VN') + ' vnđ';
+        });
+    });
+</script>
+
+

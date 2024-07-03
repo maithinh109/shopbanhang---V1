@@ -1,0 +1,187 @@
+﻿@model IEnumerable<Shopbanhang.Models.AspNetUser>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layoutadmin.cshtml";
+    var phanquyen = ViewBag.phanquyen as SelectList;
+}
+
+
+<div class="container">
+
+    <table class="table" style="margin-top:100px">
+        <tr>
+            <th>
+                Email
+            </th>
+            <th>
+                Quyền tài khoản
+            </th>
+            <th>
+                Tên người dùng
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+
+
+
+                <td>
+                    @foreach (var role in item.AspNetRoles)
+                    {
+                        @role.Name
+
+                    }
+
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+
+                    <button type="button" class="btn btn-gradient-success" data-bs-toggle="modal" data-bs-target="#exampleModalCenter1" data-User-id="@item.Id">
+                        Cập nhật quyền
+                    </button>
+                    <button type="button" class="btn btn-gradient-danger" data-bs-toggle="modal" data-bs-target="#exampleModalCenter2" data-User-id="@item.Id">
+                        Xóa
+                    </button>
+                </td>
+            </tr>
+        }
+
+    </table>
+    <div class="modal fade" id="exampleModalCenter1" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle"> Cập nhật quyền </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <input type="hidden" id="Id" name="Id" />
+                        @Html.DropDownListFor(model => model.First().Id, (SelectList)ViewBag.RoleList, htmlAttributes: new { @class = "form-control", @id = "nameid" })
+
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-gradient-success" id="saveChangesBtn1">Cập nhật</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!---->
+    <div class="modal fade" id="exampleModalCenter2" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle"> Xóa tài khoản </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form>
+                        <input type="hidden" id="UserIddelete" name="UserId" />
+                        <p>Bạn có chắc chắn muốn xóa tài khoản này không </p>
+
+
+                    </form>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                    <button type="button" class="btn btn-gradient-success" id="saveChangesBtn2">Xóa</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js" integrity="sha512-+k1pnlgt4F1H8L7t3z95o3/KO+o78INEcXTbnoJQ/F2VqDVhWoaiVml/OEHv9HsVgxUaVW+IbiZPUJQfF/YxZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+       $(document).ready(function () {
+$('#exampleModalCenter1').on('show.bs.modal', function (event) {
+    var button = $(event.relatedTarget);
+    var Id = button.data('User-Id');
+    var modal = $(this);
+    modal.find('#Id').val(Id);
+    modal.find('.modal-title').text('Thay đổi quyền tài khoản ');
+});
+
+$('#saveChangesBtn1').on('click', function () {
+    var orderId = $('#Id').val();
+    var nameId = $('#nameId').val(); // Lấy giá trị từ dropdown list
+
+    $.ajax({
+        url: '@Url.Action("UpdateRole", "AspNetUsers")',
+        type: 'POST',
+        data: {
+            Id: Id,
+            nameId: nameId
+        },
+        success: function (result) {
+            if (result.success) {
+                $('#exampleModalCenter1').modal('hide'); // Close the modal on success
+                location.reload();  // Reload the page to see changes
+            } else {
+                console.error('Error updating status:', result.message);
+
+            }
+        },
+        error: function (xhr, status, error) {
+            console.error('Error updating status:', error);
+            alert('Đã xảy ra lỗi khi cập nhật quyền .');
+        }
+    });
+});
+   });
+</script>
+<script>
+       $(document).ready(function () {
+$('#exampleModalCenter2').on('show.bs.modal', function (event) {
+    var button = $(event.relatedTarget);
+    var UserId = button.data('User-id');
+    console.log("userid", UserId);
+    var modal = $(this);
+    modal.find('#UserIddelete').val(UserId);
+    modal.find('.modal-title').text('Xóa tài khoản ');
+});
+
+$('#saveChangesBtn2').on('click', function () {
+    var UserId = $('#UserIddelete').val();
+    console.log("userid", UserId);
+    
+
+    $.ajax({
+        url: "/AspNetUsers/DeleteConfirmed",
+        type: 'POST',
+        data: {
+            UserId: UserId,
+            
+        },
+        success: function (result) {
+            if (result.success) {
+                $('#exampleModalCenter2').modal('hide'); // Close the modal on success
+                location.reload();  // Reload the page to see changes
+            } else {
+                console.error('Error updating status:', result.message);
+
+            }
+        },
+        error: function (xhr, status, error) {
+            console.error('Error updating status:', error);
+            alert('Đã xảy ra lỗi khi xóa tài khoản');
+        }
+    });
+});
+   });
+</script>

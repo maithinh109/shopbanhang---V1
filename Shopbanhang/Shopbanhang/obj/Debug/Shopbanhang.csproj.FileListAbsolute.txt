@@ -1,0 +1,734 @@
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Shopbanhang.dll.config
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Shopbanhang.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Shopbanhang.pdb
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\csc.exe
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\csc.exe.config
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\csc.rsp
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\csi.exe
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\csi.exe.config
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\csi.rsp
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.AppContext.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Console.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Net.Http.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\vbc.exe
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\vbc.exe.config
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\vbc.rsp
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Antlr3.Runtime.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\EntityFramework.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\EntityFramework.SqlServer.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Owin.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Helpers.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Mvc.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Optimization.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Razor.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\WebGrease.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Helpers.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Mvc.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Optimization.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.Razor.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Antlr3.Runtime.pdb
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\EntityFramework.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\EntityFramework.SqlServer.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.CopyComplete
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.pdb
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Text.Encodings.Web.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Text.Encodings.Web.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\PagedList.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\PagedList.Mvc.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\PagedList.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\PagedList.Mvc.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Options.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Win32.Registry.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.Bson.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Buffers.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Collections.Immutable.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.ComponentModel.Annotations.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Memory.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Numerics.Vectors.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Reflection.Metadata.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Security.AccessControl.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Security.Cryptography.Xml.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Security.Permissions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Security.Principal.Windows.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Text.Encoding.CodePages.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Options.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.Bson.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Buffers.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Collections.Immutable.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Memory.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Numerics.Vectors.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Reflection.Metadata.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\thinh\source\repos\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.AssemblyReference.cache
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Shopbanhang.dll.config
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Shopbanhang.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Shopbanhang.pdb
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\csc.exe
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\csc.exe.config
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\csc.rsp
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\csi.exe
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\csi.exe.config
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\csi.rsp
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.AppContext.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Console.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.Compression.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Net.Http.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.ValueTuple.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\vbc.exe
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\vbc.exe.config
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\vbc.rsp
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Antlr3.Runtime.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\EntityFramework.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\EntityFramework.SqlServer.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Options.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Win32.Registry.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.Bson.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Owin.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\PagedList.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\PagedList.Mvc.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Buffers.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Collections.Immutable.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.ComponentModel.Annotations.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Memory.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Numerics.Vectors.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Reflection.Metadata.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Security.AccessControl.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Security.Cryptography.Xml.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Security.Permissions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Security.Principal.Windows.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Text.Encoding.CodePages.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Text.Encodings.Web.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Helpers.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Mvc.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Optimization.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\WebGrease.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\EntityFramework.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\EntityFramework.SqlServer.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Options.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.Bson.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\PagedList.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\PagedList.Mvc.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Buffers.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Collections.Immutable.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Memory.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Numerics.Vectors.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Reflection.Metadata.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Text.Encodings.Web.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Helpers.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Mvc.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Optimization.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Antlr3.Runtime.pdb
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.AssemblyReference.cache
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.CoreCompileInputs.cache
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\obj\Debug\Shopbanh.938067A9.Up2Date
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.dll
+C:\Users\thinh\Desktop\shopbanhang\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Shopbanhang.dll.config
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Shopbanhang.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Shopbanhang.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\csc.exe
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\csc.exe.config
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\csc.rsp
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\csi.exe
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\csi.exe.config
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\csi.rsp
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\vbc.exe
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\vbc.exe.config
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\vbc.rsp
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\VBCSCompiler.exe
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Antlr3.Runtime.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\EntityFramework.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\EntityFramework.SqlServer.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Options.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Win32.Registry.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.Bson.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Owin.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\PagedList.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\PagedList.Mvc.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Buffers.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Collections.Immutable.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.ComponentModel.Annotations.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Memory.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Numerics.Vectors.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Reflection.Metadata.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Security.AccessControl.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Security.Cryptography.Xml.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Security.Permissions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Security.Principal.Windows.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Text.Encoding.CodePages.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Text.Encodings.Web.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Helpers.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Mvc.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Optimization.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Razor.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\WebGrease.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\EntityFramework.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\EntityFramework.SqlServer.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Options.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.Bson.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\PagedList.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\PagedList.Mvc.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Buffers.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Collections.Immutable.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Memory.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Numerics.Vectors.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Reflection.Metadata.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Text.Encodings.Web.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Helpers.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Mvc.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Optimization.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\System.Web.WebPages.Razor.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Newtonsoft.Json.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Antlr3.Runtime.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.AssemblyReference.cache
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.csproj.CoreCompileInputs.cache
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\obj\Debug\Shopbanh.938067A9.Up2Date
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\obj\Debug\Shopbanhang.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Unity.Abstractions.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Unity.Container.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Unity.Mvc5.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Unity.Abstractions.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\Unity.Container.pdb
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Buffers.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Memory.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\thinh\Desktop\shopbanhang - V1\Shopbanhang\Shopbanhang\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll

@@ -1,0 +1,97 @@
+﻿
+@model IEnumerable<Shopbanhang.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="container">
+    <h3 class="mb-2">Danh sách đơn hàng </h3>
+    <table class="table table-hover">
+        <tr>
+            <th>Địa chỉ</th><th>Ngày đặt hàng</th><th>Số điện thoại</th>
+            <th>Email</th><th>Thanh toán </th><th>Trạng thái</th><th> </th> </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.OrderDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Paid1.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TransactStatu.Status)
+                </td>
+                <td>
+
+                    <button type="button" class="btn btn-outline-info" data-bs-toggle="modal" data-bs-target="#exampleModalCenter1" data-order-id="@item.OrderId"> Chi tiết </button>
+                </td>
+
+            </tr>
+        }
+
+    </table>
+    <div class="modal fade" id="exampleModalCenter1" tabindex="-1" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalCenterTitle">Chi tiết đơn hàng</h5>
+
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="chiTietDonHangContent">
+
+
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js" integrity="sha512-+k1pnlgt4F1H8L7t3z95o3/KO+o78INEcXTbnoJQ/F2VqDVhWoaiVml/OEHv9HsVgxUaVW+IbiZPUJQfF/YxZw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+     $(document).ready(function () {
+         $('#exampleModalCenter1').on('show.bs.modal', function (event) {
+             var button = $(event.relatedTarget); // Nút bấm kích hoạt modal
+             var orderId = button.data('order-id'); // Lấy orderId từ thuộc tính data-order-id
+
+             $.ajax({
+                 url: '@Url.Action("ChiTietDonHang", "Orders")',
+                 type: 'GET',
+                 data: { orderId: orderId },
+                 success: function (partialView) {
+                     $('#chiTietDonHangContent').html(partialView);
+                 },
+                 error: function (xhr, status, error) {
+                     console.error('Error fetching order details:', error);
+                     alert('Đã xảy ra lỗi khi tải chi tiết đơn hàng.');
+                 }
+             });
+         });
+     });
+    </script>
+
+
+
+</div>

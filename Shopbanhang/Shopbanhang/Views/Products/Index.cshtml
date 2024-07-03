@@ -1,0 +1,182 @@
+﻿<style>
+    .form-control:focus {
+        box-shadow: none;
+    }
+
+    .form-control-underlined {
+        border-width: 0;
+        border-bottom-width: 1px;
+        border-radius: 0;
+        padding-left: 0;
+    }
+
+    .form-control::placeholder {
+        font-size: 0.95rem;
+        color: #aaa;
+        font-style: italic;
+    }
+
+    .p-5 {
+        padding: 0px !important;
+    }
+
+    .shadow {
+        box-shadow: 0 !important
+    }
+
+    .input-group {
+        padding-left: 0px !important;
+    }
+
+    .nice-select {
+        appearance: none;
+        border: none !important;
+        font-size: 16px;
+        font-weight: 400;
+        font-family: "Cairo", sans-serif;
+    }
+</style>
+@model PagedList.IPagedList<Shopbanhang.Models.Product>
+@using PagedList.Mvc;
+
+
+
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+
+<div class="container">
+
+    <!-- For demo purpose -->
+    <div class="row">
+        <div class="col-3"></div>
+        <div class="col-6">
+            <form action="@Url.Action("Index")" method="get" class="form-inline">
+                <div class="input-group mb-4 border rounded-pill col-12 no-border-radius">
+                    <div class="col-4">
+                        <select name="categoryid" class="nice-select">
+                            <option value="0">Tất cả danh mục</option>
+                            @foreach (var category in ViewBag.CategoryID)
+                            {
+                                <option value="@category.Value" @(category.Selected ? "selected" : "")>@category.Text</option>
+                            }
+                        </select>
+
+                    </div>
+                    <div class="col-7">
+                        <input type="search" name="search" placeholder="Nhập từ bạn cần tìm?" aria-describedby="button-addon3" class="form-control bg-none border-0" value="@ViewBag.keysearch">
+
+
+                    </div>
+
+                    <div class="col-1">
+                        <div class="input-group-append border-0">
+                            <button id="button-addon3" type="submit" class="btn btn-link text-success"><i class="fa fa-search"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div></div>
+    </div>
+
+
+    <div class="row featured__filter">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
+
+                <div class="featured__item">
+
+                    <div class="featured__item__pic set-bg" data-setbg="@item.Image" style="background-image: url(&quot;img/featured/feature-1.jpg&quot;);">
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                            <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                            <li><a type="button" class="ajax-add-to-cart-btn" data-id="@item.ProductId"><i class="fa fa-shopping-cart"></i></a></li>
+
+                        </ul>
+                    </div>
+                    <div class="featured__item__text">
+                        <h6><a href="~/Products/Details/@item.ProductId">@item.ProductName</a></h6>
+                        <h5 class="price" data-price="@item.Price"></h5>
+                    </div>
+
+                </div>
+
+            </div>
+        }
+
+    </div>
+    <div style="display: flex; justify-content: center;">
+        <div class="text-center product__pagination">
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+@section scripts{
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+    <script>
+        $(document).ready(function () {
+            $(".ajax-add-to-cart-btn").click(function () {
+                $.ajax({
+                    url: "/Shoppingcart/addtocart",
+                    data: {
+                        ProductId: $(this).data("id"),
+                        soluong: 1,
+                        type: "ajax"
+
+
+                    },
+                    success: function (data) {
+                        Swal.fire({
+                            icon: 'success',
+                            title: 'Thêm giỏ hàng thành công',
+                            showConfirmButton: false,
+                            timer: 2500
+                        });
+
+                    },
+                    error: function () {
+                        Swal.fire({
+                            icon: 'error',
+                            title: 'Thêm giỏ hàng thất bại',
+                            text: 'Vui lòng thử lại',
+                            showConfirmButton: false,
+                            timer: 2500
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+}
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var prices = document.querySelectorAll('.price');
+        prices.forEach(function (priceElement) {
+            var price = parseFloat(priceElement.getAttribute('data-price'));
+            priceElement.innerHTML = price.toLocaleString('vi-VN') + ' vnđ';
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+
